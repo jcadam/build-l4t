@@ -1,0 +1,22 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+
+# Customized
+Tegra_Linux_Sample-Root-Filesystem_R21.3.0_armhf.tbz2*
+l4t_kernel
+l4t_kernel_rootfs_anchor
+l4t_kernel_rootfs_src.tar.bz2
+l4t_kernel_src.tar.bz2
+l4t_prepared_anchor
